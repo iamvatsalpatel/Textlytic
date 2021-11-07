@@ -21,7 +21,7 @@ You can clone this repository using command: ``https://github.com/iamvatsalpatel
 #### 3. Build the project and run it on iOS device.
 
 ## Implementation Screenshot
-<img align="centre" height=400 width=200 alt="screenshot" src="https://user-images.githubusercontent.com/61371035/140656489-f3fe06f4-daf1-4e71-b449-8f874a747f59.jpeg"/>
+<img align="centre" height=400 width=300 alt="screenshot" src="https://user-images.githubusercontent.com/61371035/140656489-f3fe06f4-daf1-4e71-b449-8f874a747f59.jpeg"/>
 
 ## Note
 This application can run on iPhones having iOS version 10.0 or above and iPads having iPadOS version 13.0 or above. 
