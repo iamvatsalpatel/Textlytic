@@ -1,5 +1,5 @@
-# Textlytic - A TextScanner-iOS App📱(Scan & View App)
-It is an iOS application that scans any picture through camera 📷 in real time and extracts text from it, if it is detected. The application uses Visionkit and Vision framework for text extraction.
+# Textlytic - A TextScanner iOS App📱(Scan & View App)
+It is an iOS application that scans any picture through camera 📷 in real time and extracts text from it, if it is detected. The extracted text will be shown on the top of the image. You can zoom-in and out for scanning the text using the slider in the app. The application uses Visionkit and Vision framework for text extraction.
 
 <img align="right" height=280 alt="textlytic-logo" src="https://user-images.githubusercontent.com/61371035/140656275-75dd1261-af08-4fdb-83f4-49915bb14f6d.jpeg"/>
 
