@@ -11,9 +11,9 @@ Libraries used in this project are as follows:
 
 ## Installation Setup
 #### 1. Clone the repository
-You can clone this repository using command: ``https://github.com/iamvatsalpatel/SwiftWebView.git``
+You can clone this repository using command: ``https://github.com/iamvatsalpatel/Textlytic.git``
 
-#### 2. Open ``Webview.xcodeproj``
+#### 2. Open ``SkeW.xcodeproj``
 
 #### 3. Build the project and run it on a simulator or any iOS device.
 
