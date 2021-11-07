@@ -13,7 +13,7 @@ Libraries used in this project are as follows:
 #### 1. Clone the repository
 You can clone this repository using command: ``https://github.com/iamvatsalpatel/Textlytic.git``
 
-#### 2. Open ``SkeW.xcodeproj``
+#### 2. Open ``SceW.xcodeproj``
 
 #### 3. Build the project and run it on a simulator or any iOS device.
 
