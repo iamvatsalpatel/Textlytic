@@ -1,4 +1,4 @@
-# TextScanner-iOS (Scan & View App)
+# Textlytic - A TextScanner-iOS App📱(Scan & View App)
 An iOS app used to extract text using camera!
 
 This app uses VisionKit & Vision framework for text extraction. 
